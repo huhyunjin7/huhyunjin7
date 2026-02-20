@@ -10,6 +10,6 @@
 
 ![metasploit](https://img.shields.io/badge/metasploit-9DEFE7?style=flat&logo=Metasploit&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-E0FFE0?style=flat&logo=linux&logoColor=white&labelColor=E0FFE0)
-![websecurity](https://img.shields.io/badge/web%20security%20basics-FFD8A8?style=flat)
+![websecurity](https://img.shields.io/badge/web%20security-FFD8A8?style=flat)
 ![crypto](https://img.shields.io/badge/cryptography-E6D9FF?style=flat)
 ![network](https://img.shields.io/badge/network%20security-FFCCCC?style=flat)
