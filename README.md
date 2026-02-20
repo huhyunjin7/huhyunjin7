@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 𝗁𝗂 ~~ 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖼𝗒𝖻𝖾𝗋𝗌𝖾𝖼𝗎𝗋𝗂𝗍𝗒. 𝖺𝗅𝗌𝗈 𝖨 𝗅𝗂𝗄𝖾 𝖼𝗈𝖽𝗂𝗇𝗀 𝖺𝗇𝖽 𝗍𝗋𝗒 𝗍𝗈 𝖽𝗈 𝗆𝗒 𝖻𝖾𝗌𝗍.
 
 ✩°𓏲⋆ 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝗆𝗂𝗇𝗀 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 :
+
 ![Python](https://img.shields.io/badge/python-advanced-B3E5FC?style=flat&logo=python&logoColor=white&labelColor=B3E5FC)
 ![JavaScript](https://img.shields.io/badge/javascript-intermediate-FFF0F5?style=flat&logo=javascript&logoColor=white&labelColor=FFF0F5)
