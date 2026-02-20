@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **huhyunjin7/huhyunjin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hi ~~ I'm currently learning cybersecurity. also I like coding and try to do my best.
+
+✩°𓏲⋆ Programming languages :
 ![Python](https://img.shields.io/badge/python-advanced-B3E5FC?style=flat&logo=python&logoColor=white&labelColor=B3E5FC)
